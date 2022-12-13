@@ -1,5 +1,5 @@
 # ***Login-Form***
-<sup>A web app developed in django to make simple TODO lists</sup>
+<sup>A simple desktop login form</sup>
 
 - [Sample View](#Sample-view)
 - [How it Works](#how-it-works)
